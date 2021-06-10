@@ -10,7 +10,7 @@ class GestionAutomoviles {
     public function ConectarMarcas() {
         try {
             $user = "epiz_26867140";  // usuario con el que se va conectar con MySQL
-            $pass = "EMpy1KxgpENxQs";  // contraseña del usuario
+            $pass = "";  // contraseña del usuario
             $dbname = "epiz_26867140_coches";  // nombre de la base de datos
             $host = "sql306.epizy.com";  // nombre o IP del host
 
